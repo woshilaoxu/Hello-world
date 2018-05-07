@@ -5,3 +5,4 @@ for i in range(1,10):
     print(" ")
 print("Python语言可以跨平台编辑！牛逼吧")
 print("我爱你中国！")
+print("啊噗吃屎去吧O(∩_∩)O哈哈~")
