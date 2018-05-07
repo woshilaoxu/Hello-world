@@ -4,3 +4,4 @@ for i in range(1,10):
         print("%dx%d=%d"%(j,i,i*j),end=" ")
     print(" ")
 print("Python语言可以跨平台编辑！牛逼吧")
+print("我爱你中国！")
